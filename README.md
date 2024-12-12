@@ -6,7 +6,6 @@ Thank you for taking the time to view my GitHub profile. Here, you will find som
 
 - 🚀 Always excited to work on new and challenging projects
 - 🌱 Currently Learning: Microservices architecture
-- 💼 Connect with me on [LinkedIn](www.linkedin.com/in/jhurtado-dev)
 
 Thank you again for visiting!
 
