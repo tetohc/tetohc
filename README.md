@@ -11,12 +11,12 @@ Thank you again for visiting!
 
 ### &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/tetohc">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tetohc&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tetohc&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<div align="center">
+  <a href="https://github.com/tetohc">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tetohc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tetohc&layout=compact&langs_count=8&theme=dracula" height="150" alt="languages graph"/>
+  </a>
+</div>
 
 ###
 
