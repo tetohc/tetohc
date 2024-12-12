@@ -13,7 +13,7 @@ Thank you again for visiting!
 
 <div align="center">
   <a href="https://github.com/tetohc">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tetohc&show_icons=true&theme=darcula&include_all_commits=true&count_private=true" height="150" alt="stats graph"/>
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tetohc&layout=compact&langs_count=8&theme=darcula" height="150" alt="languages graph"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tetohc&show_icons=true&theme=shadow_blue&include_all_commits=true&count_private=true" height="150" alt="stats graph"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tetohc&layout=compact&langs_count=8&theme=shadow_blue" height="150" alt="languages graph"/>
   </a>
 </div>
