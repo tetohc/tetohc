@@ -4,7 +4,6 @@
 
 Thank you for taking the time to view my GitHub profile. Here, you will find some of my personal and collaborative projects that showcase my skills and interests.
 
-- 🚀 Always excited to work on new and challenging projects
 - 🌱 Currently Learning: Microservices architecture
 
 Thank you again for visiting!
